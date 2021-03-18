@@ -1,15 +1,15 @@
 [[source]]
-name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
-[dev-packages]
-tensorflow = "*"
+name = "pypi"
 
 [packages]
 alibi = "*"
 matplotlib = "*"
 numpy = "*"
+tensorflow = "*"
+
+[dev-packages]
 seldon-core = "*"
 
 [requires]
