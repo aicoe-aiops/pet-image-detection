@@ -1,5 +1,0 @@
-alibi
-matplotlib
-numpy
-seldon-core
-tensorflow
