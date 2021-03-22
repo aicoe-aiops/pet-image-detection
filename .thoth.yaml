@@ -20,8 +20,7 @@ managers:
     configuration:
       maintainers:
         - sesheta
-        - goern
-        - fridex
+        - izimmerm
       assignees:
         - sesheta
       labels: [bot]
