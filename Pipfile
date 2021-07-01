@@ -8,8 +8,6 @@ alibi = "*"
 matplotlib = "*"
 numpy = "*"
 tensorflow = "*"
-
-[dev-packages]
 seldon-core = "*"
 
 [requires]
